@@ -1,75 +1,55 @@
-**Privacy Policy**
+### プライバシーポリシー
 
-This privacy policy applies to the つみつみクラッシャー app (hereby referred to as "Application") for mobile devices that was created by つみつみクラッシャー開発部 (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+本プライバシーポリシーは、つみつみクラッシャー（以下「当アプリ」といいます）がユーザーから収集する情報、およびその利用目的について説明します。当アプリをご利用いただく前に、本ポリシーをよくお読みください。
 
-**Information Collection and Use**
+#### 1. 収集する情報
 
-The Application collects information when you download and use it. This information may include information such as
+当アプリは、以下の情報を収集します。
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+- **名前**
 
-The Application does not gather precise information about the location of your mobile device.
+  - 利用目的: アプリの機能、分析
+  - データ収集は必須であり、ユーザーはオフにできません。
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+- **ユーザー ID**
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+  - 利用目的: アプリの機能、分析、アカウント管理
+  - データ収集は必須であり、ユーザーはオフにできません。
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+#### 2. データの利用
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+収集した情報は、上記の目的のためにのみ使用されます。
+なお、本アプリは以下のような第三者サービスを使用しており、それぞれ独自のプライバシーポリシーがあります：  
+  
+[Google Play Services](https://policies.google.com/privacy)  
+  
+[Unity](https://unity.com/ja/legal/privacy-policy)  
+  
+サービス提供者は、以下の場合にユーザー提供情報および自動収集情報を開示することがあります：  
+  
+法令に基づく場合（召喚状や同様の法的手続きへの対応など）  
+  
+サービス提供者の権利の保護、ユーザーまたは他者の安全の保護、詐欺の調査、政府からの要請への対応が必要と判断される場合  
+  
+サービス提供者の代理として業務を行い、独自に情報を利用せず、本プライバシーポリシーに従うことに同意した信頼できるサービスプロバイダと情報を共有する場合  
+  
+#### 3. データの管理
 
-**Third Party Access**
+当アプリは、収集したデータの安全性を確保するために適切なセキュリティ対策を講じます。データの漏洩、改ざん、紛失を防ぐために、技術的および組織的な措置を実施します。
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+#### 4. ユーザーの権利
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+ユーザーは、収集された個人情報の確認、修正、削除を要求する権利があります。これらの権利を行使する場合は、当アプリのサポートまでご連絡ください。
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Unity](https://unity3d.com/legal/privacy-policy)
+#### 5. プライバシーポリシーの変更
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+当アプリは、必要に応じて本プライバシーポリシーを変更することがあります。変更がある場合は、当アプリ内にて通知します。
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+#### 6. お問い合わせ
 
-**Opt-Out Rights**
+プライバシーポリシーに関するお問い合わせは、以下の連絡先までお願いします。
+waseda.tokorozawa418@gmail.com
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+---
 
-**Data Retention Policy**
-
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at waseda.tokorozawa418@gmail.com and they will respond in a reasonable time.
-
-**Children**
-
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
-
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (waseda.tokorozawa418@gmail.com) so that they will be able to take the necessary actions.
-
-**Security**
-
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
-
-**Changes**
-
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
-
-This privacy policy is effective as of 2025-03-27
-
-**Your Consent**
-
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
-
-**Contact Us**
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at waseda.tokorozawa418@gmail.com.
-
-* * *
-
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+本プライバシーポリシーは、2025年3月30日から適用されます。
